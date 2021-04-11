@@ -73,7 +73,7 @@
 
 // console.log(person.name);
 
-// ------------------------------------------------------------ Any  --- avoid any whenever posible
+// ------------------------------------------------------------ Any  --- avoid any whenever possible
 const person = {
   name: 'Dragan',
   age: 29,

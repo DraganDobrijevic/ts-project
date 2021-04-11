@@ -25,7 +25,7 @@ const combine = (
   input1: Combinable,
   input2: Combinable,
   //   resultConversion: string
-  //   resultConversion: 'as-number' | 'as-text'
+  //   resultConversion: 'as-number' | 'as-text'    <--- literal types
   resultConversion: ConversionDescriptor
 ) => {
   // let result;
